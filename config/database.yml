@@ -23,3 +23,6 @@ test:
 production:
   <<: *default
   database: production
+  host: f2y3d1.stackhero-network.com
+  port: 8491
+  password: 92rOacegP2GXGrPoIMFQkULW9QypsPxY
